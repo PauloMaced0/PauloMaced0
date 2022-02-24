@@ -19,5 +19,10 @@ I'm Paulo Macedo, a student of computer engineering and informatics.
 </div>
   
  ---
+ 
+<br />
   
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=paulomacsrm13&cover_image=true&theme=default&bar_color=4fb14e&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=paulomacsrm13&redirect=true)
+<h4> See what i'm listening on Spotify: </h4>
+  
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=paulomacsrm13&cover_image=true&theme=novatorem&bar_color=4fb14e&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=paulomacsrm13&redirect=true)
+  
