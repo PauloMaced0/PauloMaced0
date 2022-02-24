@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I'm Paulo Macedo, a student of computer engineering and informatics.  
-
+<br />
+<h4> Some GitHub Stats: </h4>
 <div align="center">
   <a href="https://github.com/PauloMaced0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloMaced0&show_icons=true&include_all_commits=true&count_private=true"/>
