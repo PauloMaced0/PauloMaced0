@@ -7,7 +7,7 @@ I'm Paulo Macedo, a student of computer engineering and informatics.
 <div align="center">
   <a href="https://github.com/PauloMaced0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloMaced0&show_icons=true" alt="abhisheknaiidu" /> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMaced0&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloMaced0&layout=compact&langs_count=7"/>
 </div>
 
   <h4> Programming Languages: </h4>
