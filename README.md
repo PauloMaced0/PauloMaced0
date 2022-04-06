@@ -6,7 +6,7 @@ I'm Paulo Macedo, a student of computer engineering and informatics.
 <h4> Some GitHub Stats: </h4>
 
 <div align="center">
-  <p><img width=50% align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PauloMaced0&hide=html,css, tsql&langs_count=8&show_icons=true&locale=en&layout=compact" alt="Hello" /></p>
+  <p><img width=45% align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PauloMaced0&hide=html,css, tsql&langs_count=8&show_icons=true&locale=en&layout=compact" alt="Hello" /></p>
 
 <p>&nbsp;<img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=PauloMaced0&show_icons=true&hide=html,css&locale=en" alt="Hello" /></p>
 </div>
