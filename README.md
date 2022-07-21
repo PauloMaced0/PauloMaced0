@@ -8,7 +8,7 @@ I'm Paulo Macedo, a student of computer engineering and informatics.
 <div align="center">
   <p><img width=45% align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PauloMaced0&hide=html,css, tsql&langs_count=8&show_icons=true&locale=en&layout=compact" alt="Hello" /></p>
 
-<p>&nbsp;<img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=PauloMaced0&show_icons=true&hide=html,css&locale=en" alt="Hello" /></p>
+<p>&nbsp;<img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=PauloMaced0&show_icons=true&hide=vhdl&locale=en" alt="Hello" /></p>
 </div>
 
   <h4> Programming Languages: </h4>
