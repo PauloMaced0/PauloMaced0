@@ -11,7 +11,7 @@ I'm Paulo Macedo, a student of computer engineering and informatics.
 <p>&nbsp;<img width=55% src="https://github-readme-stats.vercel.app/api?username=PauloMaced0&hide=vhdl&locale=en" alt="Hello"/></p>
 </div>
 
-  <h4> Programming Languages: </h4>
+  <h4> Programming Languages & Tools: </h4>
 <div style="display: inline_block"><br>
   <img height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
