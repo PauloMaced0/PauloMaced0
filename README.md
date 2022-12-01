@@ -28,9 +28,7 @@ I'm Paulo Macedo, a student of computer engineering and informatics.
   <img height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
   <img height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-  <img height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-plain.svg" />
-                 
-                    
+  <img height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
           
           
 
