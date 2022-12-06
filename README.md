@@ -4,7 +4,7 @@ I'm Paulo Macedo, a student of computer engineering and informatics.
 <b r/>
 
 <div align="center">
-<h3 align="left">I'm Spenting My Time On:</h3>
+<h3 align="left">I'm Spending My Time On:</h3>
 
 [![paulo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PauloMacedo&langs_count=6)](https://wakatime.com/@PauloMacedo)
 </div>
