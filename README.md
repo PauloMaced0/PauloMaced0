@@ -6,9 +6,9 @@ I'm Paulo Macedo, a student of computer engineering and informatics.
 <h4> Some GitHub Stats: </h4>
 
 <div align="center">
-  <p><img width=40% align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PauloMaced0&hide=vhdl,tex,mathematica,stata,standard ml,scheme,html,css&langs_count=8&show_icons=true&locale=en&layout=compact" alt="Hello XD" /></p>
+<h3 align="left">This Week I Spent My Time On:</h3>
 
-<p>&nbsp;<img width=55% src="https://github-readme-stats.vercel.app/api?username=PauloMaced0&hide=vhdl&locale=en" alt="Hello"/></p>
+[![paulo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PauloMacedo&langs_count=6)](https://wakatime.com/@PauloMacedo)
 </div>
 
   <h4> Programming Languages & Tools: </h4>
