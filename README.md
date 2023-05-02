@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<a href="https://wakatime.com/@73f6e716-fa7d-428a-8710-3a49a7406e9e"><img src="https://wakatime.com/badge/user/73f6e716-fa7d-428a-8710-3a49a7406e9e.svg" alt="Total time coded since Dec 6 2022" /></a> <br/>
+<br/>
 I'm Paulo Macedo, a student of computer engineering and informatics.  
 <b r/>
 
