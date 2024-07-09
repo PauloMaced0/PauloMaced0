@@ -35,8 +35,8 @@ I'm Paulo Macedo, a student of computer engineering and informatics.
   <img height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
   <img height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-
+  <img height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
+          
 </div>
   
  ---
